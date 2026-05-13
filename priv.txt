@@ -1,0 +1,70 @@
+Política de Privacidad / Privacy Policy
+Español
+Política de Privacidad
+
+Esta aplicación no recopila, almacena ni comparte datos personales de forma directa por parte del desarrollador.
+
+La aplicación puede utilizar servicios de terceros proporcionados por Google, como:
+
+Google Play Services
+Google AdMob
+Google Analytics for Firebase
+Firebase Crashlytics
+
+Estos servicios pueden recopilar cierta información automáticamente según sus propias políticas de privacidad y términos de uso.
+
+El desarrollador únicamente tiene acceso a métricas generales y anónimas, como:
+
+Número de descargas
+Países aproximados de uso
+Estadísticas básicas de rendimiento
+Errores y cierres inesperados de la aplicación
+
+No se recopilan datos personales identificables directamente por parte del desarrollador.
+
+Puedes consultar las políticas de privacidad de Google aquí:
+
+Google Privacy Policy
+
+Cambios en esta política
+
+Esta política puede actualizarse ocasionalmente. Los cambios se publicarán en esta misma página.
+
+Contacto
+
+Si tienes preguntas sobre esta política de privacidad, puedes contactar con el desarrollador mediante la información disponible en la tienda de aplicaciones.
+
+English
+Privacy Policy
+
+This application does not directly collect, store, or share personal data by the developer.
+
+The app may use third-party services provided by Google, including:
+
+Google Play Services
+Google AdMob
+Google Analytics for Firebase
+Firebase Crashlytics
+
+These services may automatically collect certain information according to their own privacy policies and terms.
+
+The developer only has access to simple and anonymous metrics, such as:
+
+Number of downloads
+Approximate countries of usage
+Basic performance statistics
+App crashes and error reports
+
+No directly identifiable personal information is collected by the developer.
+
+You can read Google’s privacy policy here:
+
+Google Privacy Policy
+
+Changes to This Policy
+
+This policy may be updated from time to time. Any changes will be published on this page.
+
+Contact
+
+If you have any questions regarding this privacy policy, you may contact the developer through the contact information available on the app store listing.
